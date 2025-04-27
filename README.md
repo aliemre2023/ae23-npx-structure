@@ -4,7 +4,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```
-   npx create-next-app project -e https://github.com/aliemre2023/
+   npx create-next-app project -e https://github.com/aliemre2023/ae23-npx-structure
    ```
 
 2. Navigate to the project directory:
