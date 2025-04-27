@@ -2,7 +2,7 @@
 
 To get started with this project, follow these steps:
 
-1. Clone the repository:
+1. Create react app:
    ```
    npx create-next-app project -e https://github.com/aliemre2023/ae23-npx-structure
    ```
