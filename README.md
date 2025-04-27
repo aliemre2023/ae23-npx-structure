@@ -1,7 +1,5 @@
 # My React Structure
 
-## 
-
 To get started with this project, follow these steps:
 
 1. Clone the repository:
@@ -34,7 +32,3 @@ To get started with this project, follow these steps:
 - Global CSS for overall styling
 - PrimeReact and PrimeFlex for good UI
 - My folder structure
-
-## License
-
-This project is licensed under the MIT License.
